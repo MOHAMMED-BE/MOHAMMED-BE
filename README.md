@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-be&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-be" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
-
 - 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MOHAMMED-BE](https://github.com/MOHAMMED-BE)
