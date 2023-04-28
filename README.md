@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MOHAMMED-BE](https://github.com/MOHAMMED-BE)
 
-- 📝 I regularly write articles on [https://traveur-numeriique.blogspot.com/](https://traveur-numeriique.blogspot.com/)
-
 - 💬 Ask me about **React,Laravel**
 
 <h3 align="left">Connect with me:</h3>
