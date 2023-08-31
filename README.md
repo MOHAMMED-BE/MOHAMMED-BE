@@ -1,6 +1,6 @@
 ![logo](https://github.com/MOHAMMED-BE/MOHAMMED-BE/blob/master/git-cover-0.png?raw=true)
 <h1 align="center">Hi 👋, I'm MOHAMMED BEN-SEGHIR</h1>
-<h3 align="center">Full-Stack Developer | React-Laravel</h3>
+<h3 align="center">Full-Stack Developer | React/Laravel/Symfony</h3>
 
 <img align="right" alt="coding" width="330" style="border-radius: 6px !important; padding: 0 !important;" src="https://github.com/MOHAMMED-BE/MOHAMMED-BE/blob/master/gif-img-0.gif?raw=true">
 
