@@ -1,18 +1,18 @@
 ![logo](https://github.com/MOHAMMED-BE/MOHAMMED-BE/blob/master/git-cover-0.png?raw=true)
 <h1 align="center">Hi 👋, I'm MOHAMMED BEN-SEGHIR</h1>
-<h3 align="center">Full-Stack Developer | React/Laravel/Symfony</h3>
+<h3 align="center">Full-Stack Developer | React/Symfony/Laravel</h3>
 
 <img align="right" alt="coding" width="330" style="border-radius: 6px !important; padding: 0 !important;" src="https://github.com/MOHAMMED-BE/MOHAMMED-BE/blob/master/gif-img-0.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-be&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-be" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce WebSite**
+- 🔭 I’m currently working on **Similar inDrive Project**
 
 - 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/MOHAMMED-BE](https://github.com/MOHAMMED-BE)
 
-- 💬 Ask me about **React,Laravel,Symfony**
+- 💬 Ask me about **React, Symfony, API Platform, Laravel**
 
 - 📫 How to reach me **mohammedbenseghir.info@gmail.com**
 
