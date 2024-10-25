@@ -32,3 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMED-BE&" alt="MOHAMMED-BE" /></p>
 
+<a href="https://app.daily.dev/mbsdev"><img src="https://api.daily.dev/devcards/v2/YfdjkdGS7oaCojcDWTnG8.png?type=default&r=fqk" width="356" alt="MOHAMMED's Dev Card"/></a>
+
