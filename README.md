@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED BEN-SEGHIR</h1>
 <h3 align="center">Full-Stack Developer | React/Symfony/Laravel</h3>
 
-<img align="right" alt="coding" width="330" style="border-radius: 6px !important; padding: 0 !important;" src="https://github.com/MOHAMMED-BE/MOHAMMED-BE/blob/master/gif-img-0.gif?raw=true">
+<a href="https://app.daily.dev/mbsdev"><img src="https://api.daily.dev/devcards/v2/YfdjkdGS7oaCojcDWTnG8.png?type=default&r=fqk" width="356" alt="MOHAMMED's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-be&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-be" /> </p>
 
