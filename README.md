@@ -1,4 +1,4 @@
-![logo](https://github.com/MOHAMMED-BE/MOHAMMED-BE/blob/master/git-cover-0.png?raw=true)
+![logo](https://github.com/MOHAMMED-BE/MOHAMMED-BE/blob/master/gitcover.png?raw=true)
 <h1 align="center">Hi 👋, I'm MOHAMMED BEN-SEGHIR</h1>
 <h3 align="center">Full-Stack Developer | React/Symfony/Laravel</h3>
 
