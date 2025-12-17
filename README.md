@@ -1,4 +1,11 @@
-![logo](https://github.com/MOHAMMED-BE/MOHAMMED-BE/blob/master/green-banner.png?raw=true)
+<p align="center">
+  <img 
+    src="https://github.com/MOHAMMED-BE/MOHAMMED-BE/blob/master/green-banner.png?raw=true"
+    alt="logo"
+    style="border-radius: 16px;"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm MOHAMMED BEN-SEGHIR</h1>
 
 <a href="https://app.daily.dev/mbsdev"><img src="https://api.daily.dev/devcards/v2/YfdjkdGS7oaCojcDWTnG8.png?type=default&r=fqk" width="356" align="right" alt="MOHAMMED's Dev Card"/></a>
