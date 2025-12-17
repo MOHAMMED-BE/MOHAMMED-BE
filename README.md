@@ -1,8 +1,8 @@
-<p align="center">
+<p align="center" style="border-radius: 20%;">
   <img 
     src="https://github.com/MOHAMMED-BE/MOHAMMED-BE/blob/master/green-banner.png?raw=true"
     alt="logo"
-    style="border-radius: 16px;"
+    style="border-radius: 20%;"
   />
 </p>
 
