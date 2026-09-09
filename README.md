@@ -30,3 +30,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=MOHAMMED-BE&theme=default_repocard&hide_border=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MOHAMMED-BE&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMED-BE&theme=radical&layout=compact)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mohammed-be&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mohammed-be&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohammed-be&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=mohammed-be&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
